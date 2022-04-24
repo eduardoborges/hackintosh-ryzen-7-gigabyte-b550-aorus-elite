@@ -21,3 +21,6 @@ macOS.......: Monterey
 Opencore....: 0.8.0
 ```
 
+## Neofetch
+
+![Screen Shot 2022-04-24 at 10 38 40](https://user-images.githubusercontent.com/2353216/164979270-8a4278f7-324d-4543-b75f-00d85c5738fb.png)
