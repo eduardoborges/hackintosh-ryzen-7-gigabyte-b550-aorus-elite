@@ -16,8 +16,8 @@ Monitor.....: 1 Samsung CHG90 Super UltraWide 49" 144hz
 LAN.........: Realtek® GbE LAN chip (1000 Mbit/100 Mbit)
 WIFI/BL.....: [Disabled]
 Power Supply: EVGA, 750W,80 Plus,Bronze
-SMBIOS......: iMacPro1,1
-macOS.......: Monterey
+SMBIOS......: MacPro7,1
+macOS.......: Monterey 12.4
 Opencore....: 0.8.0
 ```
 
