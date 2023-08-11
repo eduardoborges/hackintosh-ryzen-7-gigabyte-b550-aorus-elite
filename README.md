@@ -1,7 +1,9 @@
 
 # OpenCore B550M / Ryzen 7 5800X
 
-Updated to OpenCore 0.8.7
+Updated to OpenCore 0.9.4
+
+**Dont forget to generate your SMBios and etc for _MacPro7,1_**
 
 ## Devices
 
@@ -17,7 +19,7 @@ WIFI/BL.....: Intel AX 200
 Power Supply: EVGA, 750W,80 Plus,Bronze
 SMBIOS......: MacPro7,1
 macOS.......: Monterey 12.6.2 (21G320)
-Opencore....: 0.8.7
+Opencore....: 0.8.4
 ```
 
 
